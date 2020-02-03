@@ -1,0 +1,2 @@
+DECLARE @ VARCHAR(MAX)=REPLACE(REPLACE(REPLACE('DECLARE @a5MULTIPOINT((0 31),(19 -2),(-19 -2))'',@b5MULTIPOINT((0 39),(26 -6),(-26 -6))'',@5POINT(0 9)'',@d5LINESTRING(0 9,0 99,90 -43,0 9,-90 -43)''SELECT @a830%b821)%86)%d81)%d84%819))).STUnion(@827%820)).STIntersection(@b819)))'
+,8,'.STBuffer('),5,' GEOMETRY='''),'%',').STDifference(@')EXEC(@)
